@@ -1,0 +1,38 @@
+{
+    "cSpell.words": [
+        "allez",
+        "apprenant",
+        "avancer",
+        "avons",
+        "cela",
+        "Cela",
+        "chapitre",
+        "Chaque",
+        "clés",
+        "cours",
+        "dans",
+        "donnera",
+        "dynamique",
+        "dynamiques",
+        "L'objectif",
+        "openclassrooms",
+        "partage",
+        "permettre",
+        "Pratiquez",
+        "projet",
+        "réaliser",
+        "recettes",
+        "signifie",
+        "suivant",
+        "supplémentaires",
+        "vous"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:cours_php}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
